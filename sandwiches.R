@@ -26,6 +26,6 @@ lines(e,
 legend(1, 200,
       legend = c("Sandwich Growth",
                  "Exponential Growth"),
-      col = c("red", "blue"),
+      col = c("blue", "red"),
       lty = 2:1,
       cex = 0.8)
