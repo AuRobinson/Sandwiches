@@ -12,4 +12,4 @@ $$f(x) = \frac{1}{2} (x^2 - 3x + 2)$$
 
 ## Code
 
-[R Code]()
+[R Code](https://github.com/AuRobinson/Sandwiches/blob/main/sandwiches.R)
