@@ -16,4 +16,4 @@ $$f(x) = \frac{1}{2} (x^2 - 3x + 2)$$
 
 ## Visual
 
-![Plot](https://github.com/AuRobinson/Sandwiches/blob/main/Rplot.png)
+![Plot]()
